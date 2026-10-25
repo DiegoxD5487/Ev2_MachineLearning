@@ -135,22 +135,11 @@ Ev2_MachineLearning/
 
 ## 12. Instrucciones para reproducir el proyecto
 
-### Opción A: en Google Colab
+### en Google Colab
 
 1. Abrir el [notebook alojado en GitHub](https://colab.research.google.com/github/DiegoxD5487/Ev2_MachineLearning/blob/main/notebooks/Telco_Churn_EV2.ipynb) una vez publicados los archivos.
 2. En Colab seleccionar **Entorno de ejecución > Ejecutar todas**.
 3. El notebook, actualizado a partir de la versión entregada por el equipo, buscará el dataset en las rutas habituales y, si no lo encuentra, lo leerá del **repositorio público** mediante su enlace RAW. Esto requiere conexión a Internet.
-
-### Opción B: en el equipo local
-
-Con **Python 3.10 o superior**, abrir una terminal en la **raíz del repositorio** y ejecutar:
-
-```bash
-python -m pip install -r requirements.txt
-jupyter notebook notebooks/Telco_Churn_EV2.ipynb
-```
-
-Luego seleccionar **Run All / Ejecutar todo**. La ruta del archivo de datos se resuelve desde la raíz o desde la carpeta `notebooks/` y no requiere modificar el código. El entrenamiento de K-Means y de Random Forest puede tardar algo más que las otras celdas.
 
 ## 13. Material de presentación
 
