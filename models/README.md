@@ -1,5 +1,7 @@
-# Modelos
+# Modelos del proyecto
 
-Los algoritmos de **Regresión Logística**, **Random Forest** y **K-Means** se entrenan y evalúan directamente en `notebooks/Telco_Churn_EV2.ipynb`.
+En este proyecto trabajamos con Regresión Logística, Random Forest y K-Means para analizar y predecir el abandono de clientes de TELCO.
 
-No se incluye un modelo serializado (`.pkl` o `.joblib`), ya que el proyecto se reproduce ejecutando el notebook con el CSV proporcionado. Esta carpeta documenta dónde guardar modelos exportados en una futura etapa de despliegue.
+Los modelos se entrenan y evalúan directamente en el notebook de la carpeta `notebooks`, por lo que no es necesario guardar archivos adicionales en esta carpeta.
+
+Dejamos este espacio preparado por si más adelante necesitamos guardar los modelos entrenados.
