@@ -156,6 +156,3 @@ Luego seleccionar **Run All / Ejecutar todo**. La ruta del archivo de datos se r
 
 La [presentación TELCO EV2](presentacion/Presentacion_TELCO_EV2.pptx) resume el problema, la metodología, el EDA, los modelos, las métricas y las recomendaciones para la defensa técnica.
 
----
-
-**Nota académica:** proyecto elaborado con fines educativos. El código y los resultados deben interpretarse dentro del contexto del dataset entregado y no como una solución lista para producción.
